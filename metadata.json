@@ -1,0 +1,5 @@
+{
+  "name": "VetsMorning Studio",
+  "description": "An AI-powered audio mixer that allows you to generate speech using Gemini and mix it onto the end of music tracks. Perfect for creating intros and outros.",
+  "requestFramePermissions": []
+}
